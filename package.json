@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bJeff Mullen portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coachmullen22/portfolio.git"
+  },
+  "author": "Jeff Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coachmullen22/portfolio/issues"
+  },
+  "homepage": "https://github.com/coachmullen22/portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
